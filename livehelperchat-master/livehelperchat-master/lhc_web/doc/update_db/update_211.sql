@@ -1,1 +1,0 @@
-ALTER TABLE `lh_chat` ADD `gbot_id` int(11) NOT NULL DEFAULT '0', COMMENT='';

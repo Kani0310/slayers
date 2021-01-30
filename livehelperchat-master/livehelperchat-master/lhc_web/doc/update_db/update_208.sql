@@ -1,1 +1,0 @@
-ALTER TABLE `lh_abstract_chat_variable` ADD `persistent` tinyint(1) NOT NULL, COMMENT='';

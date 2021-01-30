@@ -1,1 +1,0 @@
-ALTER TABLE `lh_generic_bot_repeat_restrict` ADD `identifier` varchar(20) NOT NULL, COMMENT='';

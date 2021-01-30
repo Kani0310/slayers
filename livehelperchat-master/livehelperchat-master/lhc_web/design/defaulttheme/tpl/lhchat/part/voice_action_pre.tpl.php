@@ -1,1 +1,0 @@
-<?php $voice_action_enabled = true; ?>
